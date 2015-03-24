@@ -1,0 +1,19 @@
+h3{
+color:#FF0040;
+}
+h5{
+color:#04B404;
+}
+.cuerpo{
+	background: #DF01D7; 
+}p {color:red; 
+   font-size:10px;
+   font-family:Verdana;
+   border:2px;
+   border-color:blue;
+   border-style:solid;
+   width:200px; 
+   height:100px;
+  }
+
+img {float: right;}
